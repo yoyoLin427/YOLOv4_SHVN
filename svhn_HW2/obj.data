@@ -1,0 +1,5 @@
+classes = 10
+train = /work1/svhn_HW2/train.txt
+valid = /work1/svhn_HW2/valid.txt
+names = /work1/svhn_HW2/obj.names
+backup = /work1/svhn_HW2/weights/
