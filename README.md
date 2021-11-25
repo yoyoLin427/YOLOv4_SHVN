@@ -47,7 +47,7 @@ work1/svhn_HW2
         │             │  .
         │             ├── 30000.png
         │             └── 30000.txt
-        └── split_train
+        └── split_valid
               ├── 15  ├── 30001.png
               │       ├── 30001.txt
               │       │  .
